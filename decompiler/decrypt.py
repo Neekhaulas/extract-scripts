@@ -5,7 +5,7 @@ import sys
 import blowfish
 
 
-DLL_HEADER_SIZE = 0x200
+DLL_HEADER_SIZE = 0x400
 
 
 def decrypt(input_file, output_file):
